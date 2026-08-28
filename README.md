@@ -27,9 +27,9 @@
 
 | 노트북 | 내용 |
 |---|---|
-| `01_data_exploration` | 원본 CSV 9개의 컬럼·타입·행 수와 샘플 데이터 확인 |
-| `02_load_tables` | CSV를 DuckDB 파일에 영구 테이블로 적재하고 원본과 행 수 대조 |
-| `03_data_quality` | 테이블 구조와 관계 점검 — 그레인·키 확정, 참조 무결성, 카디널리티, 중복 |
+| [`01_data_exploration`](notebooks/01_data_exploration.ipynb) | 원본 CSV 9개의 컬럼·타입·행 수와 샘플 데이터 확인 |
+| [`02_load_tables`](notebooks/02_load_tables.ipynb) | CSV를 DuckDB 파일에 영구 테이블로 적재하고 원본과 행 수 대조 |
+| [`03_data_quality`](notebooks/03_data_quality.ipynb) | 테이블 구조와 관계 점검 — 그레인·키 확정, 참조 무결성, 카디널리티, 중복 |
 
 ### 03에서 확인한 것
 
