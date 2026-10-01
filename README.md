@@ -256,7 +256,7 @@
 
 ## 데이터 출처와 라이선스
 
-- 데이터: Brazilian E-Commerce Public Dataset by Olist — Olist, Kaggle ([데이터셋 링크](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce))
+- 데이터: Brazilian E-Commerce Public Dataset by Olist — Olist, Kaggle, https://doi.org/10.34740/kaggle/dsv/195341
 - 원 데이터 라이선스: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - 변경 사항: 원본 테이블의 결합·필터링·집계와 파생 지표(배송 소요일, 약속 대비 일수, 금액 분위 등) 계산
 - 이 대시보드와 그 안의 가공 데이터의 라이선스: CC BY-NC-SA 4.0
