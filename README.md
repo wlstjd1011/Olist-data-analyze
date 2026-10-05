@@ -5,7 +5,7 @@
 
 ## 한눈에 보기
 
-**[Tableau 대시보드 보기](https://public.tableau.com/app/profile/.71856239/viz/2_17912008608490/08)** — 06 · 07 · 08의 핵심 그래프를 대시보드 4장으로 옮겼습니다.
+**[Tableau 대시보드 보기](https://public.tableau.com/app/profile/.71856239/viz/2_17912008608490/06-A)** — 06 · 07 · 08의 핵심 그래프를 대시보드 4장으로 옮겼습니다.
 
 ![배송 기대치 대시보드](images/dashboard_06a.png)
 
