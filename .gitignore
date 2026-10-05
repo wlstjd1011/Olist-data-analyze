@@ -6,3 +6,6 @@ CLAUDE.md
 _rerun/
 exports_before/
 notebooks_before/
+*.twbx
+*.twb
+*.hyper
